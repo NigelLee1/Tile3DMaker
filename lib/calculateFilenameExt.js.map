@@ -1,0 +1,1 @@
+{"version":3,"file":"calculateFilenameExt.js","sourceRoot":"","sources":["../../lib/calculateFilenameExt.ts"],"names":[],"mappings":";;;AAAA;;;;;;;GAOG;AACH,SAAgB,oBAAoB,CAChC,cAAuB,EACvB,MAAe,EACf,UAAkB;IAElB,IAAI,cAAc,IAAI,CAAC,MAAM,EAAE;QAC3B,OAAO,OAAO,CAAC;KAClB;SAAM,IAAI,MAAM,EAAE;QACf,OAAO,MAAM,CAAC;KACjB;IACD,OAAO,UAAU,CAAC;AACtB,CAAC;AAXD,oDAWC"}

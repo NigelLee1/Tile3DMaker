@@ -1,0 +1,17 @@
+{
+  "name": "tile3-dmaker",
+  "version": "0.0.0",
+  "description": "Tile3DMaker",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cesium": "1.77.0",
+    "datauri": "^3.0.0",
+    "fs-extra": "9.0.1",
+    "gltf-pipeline": "^3.0.2",
+    "mysql": "^2.18.1"
+  }
+}
